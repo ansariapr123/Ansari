@@ -1,2 +1,2 @@
 # Ansari
-shopping organic spices
+Spicesstore.com
